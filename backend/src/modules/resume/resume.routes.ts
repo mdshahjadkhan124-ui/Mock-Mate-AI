@@ -19,7 +19,7 @@ router.post(
   '/upload',
   requireAuth,
   subscriptionGuard,
-  upload.single('file'), 
+  upload.single('file') as any, 
   async (req, res, next) => {
     try {
       const authReq = req as ClerkAuthRequest;
