@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1777111819004,
+      "tag": "0000_reflective_the_twelve",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1777215732273,
+      "tag": "0001_dashing_scream",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1782298714045,
+      "tag": "0002_demonic_albert_cleary",
+      "breakpoints": true
+    }
+  ]
+}
