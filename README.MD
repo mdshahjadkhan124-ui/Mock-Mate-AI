@@ -65,7 +65,7 @@
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/kashyapsaksham012/Mock-Mate-AI.git
+   git clone https://github.com/mdshahjadkhan124-ui/Mock-Mate-AI.git
    cd Mock-Mate-AI
    ```
 
@@ -152,4 +152,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
-**Developed with ❤️ by [Saksham Kashyap](https://github.com/kashyapsaksham012)**
+**Developed with ❤️ by [Md Shahjad Khan](https://github.com/mdshahjadkhan124-ui)**
